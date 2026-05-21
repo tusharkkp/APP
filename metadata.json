@@ -1,0 +1,6 @@
+{
+  "name": "Vision AI",
+  "description": "Real-time AI camera identifying objects, plants, animals, landmarks, text, and QR codes with voice narration and history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
